@@ -54,6 +54,6 @@ python train.py
 ### Documentazione Completa
 Per un'analisi approfondita della metodologia, della scelta degli iperparametri (come il learning rate a $2 \times 10^{-5}$) e del confronto dettagliato con i risultati della campagna EVALITA 2023, consulta il documento integrale:
 
-[**Consulta il Report di Progetto (PDF)**](./report%20.pdf)
+[**Consulta il Report di Progetto (PDF)**](./report.pdf)
 
 
